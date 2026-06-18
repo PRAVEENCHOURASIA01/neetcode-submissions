@@ -1,6 +1,5 @@
-# NeetCode Solutions
+# Welcome to my NeetCode solutions repository
 
-Welcome to my NeetCode solutions repository.
 
 This repository contains my solutions to coding interview and Data Structures & Algorithms problems solved through NeetCode. I use this repository to track my progress, improve problem-solving skills, and build consistency in competitive programming and technical interview preparation.
 
